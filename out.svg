@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny"
+	viewBox="0 0 100 100">
+<desc>SVG Output</desc><text x="54.962598" y="56.339497" fill="black" font-size="1.742457">52.148 Torque Setting</text>
+<text x="0.000000" y="65.589559" fill="black" font-size="1.742457">34.7653 EndForce</text>
+<text x="84.317888" y="32.667984" fill="green" font-size="1.742457">80 Torque</text>
+<text x="54.962598" y="54.597040" fill="green" font-size="1.742457">143 DEG</text>
+<line x1="0.000000" y1="54.597040" x2="0.000000" y2="65.589559" stroke-width="0.5" stroke="gray"/>
+<text x="69.640243" y="41.890055" fill="red" font-size="1.742457">Crowfoot 1</text>
+<line x1="54.962598" y1="54.597040" x2="84.317888" y2="32.667984" stroke-width="0.5" stroke="red"/>
+<text x="27.481299" y="52.854583" fill="blue" font-size="1.742457">Wrench 1.5</text>
+<line x1="0.000000" y1="54.597040" x2="54.962598" y2="54.597040" stroke-width="0.5" stroke="blue"/>
+</svg>
